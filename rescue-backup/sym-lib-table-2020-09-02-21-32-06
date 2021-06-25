@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name onOffBT-rescue)(type Legacy)(uri ${KIPRJMOD}/onOffBT-rescue.lib)(options "")(descr ""))
+)
